@@ -1,1 +1,1 @@
-# UI_Tests
+# Examples of simple UI tests with Python + Selenium + Pytest
